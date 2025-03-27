@@ -1,0 +1,153 @@
+Space Group Identified (earlier Unknown) Predictions:
+166, Ga1Mn1 (Already identified on TQC website)
+123, Ga1Mn1 (Already identified on TQC website)
+63, Pt2Ta1
+62, Nb1Si1
+221, Co1Ga1
+180, Ge2Ta1
+225, Bi1Ti1
+194, Bi1Ti1
+216, Bi1Ti1
+
+Space Group Known Predictions (Common from all datasets):
+11, Bi1 (Already identified on TQC website)
+64, Ca1 (Already identified on TQC website)
+92, Ca1
+162, Cl3Ti1 (Structure similar to identified TI: 148, Cl3Ti1)
+229, Ge1 (Band Structure similar to identified TIs: Ge1, Space Groups: 141, 74, 64)
+148, Ge1
+225, Ge1
+227, Ge1
+25, In1Sb1
+59, In1Sb1
+216, N1Ta1
+8, N2Re1
+64, P1 (Already identified on TQC website)
+107, P2U1 (Structure similar to identified TI: 129, P2U1)
+5, Po1
+160, S2Ta1
+164, S2Ti1
+194, S2Ti1 (Already identified on TQC website)
+62, S2Ti1
+11, Sb1
+160, Se2Ta1
+186, Se2Ta1
+74, Sr1
+62, Te1Zr1
+36, Ge6La4Mg5
+
+Space Group Known Predictions (Except Topogivity dataset):
+109, Al1Ge1La1
+160, Al4C6Zr3
+109, As1Nb1
+5, As2Ta1
+36, Bi1Pd1
+4, Bi1Pd1
+157, Bi2Pt1
+186, Ca1Ge2
+142, Ga2Pt1
+180, Ge2Nb1
+198, Hg1Pd1 (Degeneracy between M & Γ points)
+166, In1Mg3
+186, N1Tl1
+46, Nb1Re1Si1
+109, P1Ta1
+86, P1Zr3
+199, Pb2Pd3S2
+146, Pd8Sb3 (Structure similar to identified TI: 167, Pb8Sb3)
+161, Pd8Sb3 (Structure similar to identified TI: 167, Pb8Sb3)
+46, Re1Si1Ta1
+92, Si4Zr5
+
+Other Potential Topological Materials from Common Predictions:
+167, Al5Mo1
+166, As2Sn2Sr1
+212, Ba1Si2
+18, Be1
+64, Bi1
+194, Ca1
+229, Ca1
+193, Cl3Ti1
+149, Cl3Ti1 (Structure similar to identified TI: 148, Cl3Ti1)
+12, Cl3Ti1 (Structure similar to identified TI: 148, Cl3Ti1)
+15, Cl3Ti1 (Structure similar to identified TI: 148, Cl3Ti1)
+206, Ge1
+194, Ge1 (Structure similar to identified TIs: Ge1, Space Groups: 141, 74, 64)
+216, In1Sb1
+186, In1Sb1
+221, N1Ta1
+191, N1Ta1 (Already identified on TQC website)
+187, N1Ta1
+225, N1Ta1
+189, N1Ta1
+194, N1Ta1
+6, N2Re1
+13, N2Re1
+194, N2Re1
+11, N2Re1
+205, N2Re1
+127, N2Re1
+62, N2Re1
+194, Nb1S2
+139, Nb1S2
+164, Nb1Se2
+194, Nb1Se2
+187, Nb1Se2 (Already identified on TQC website)
+74, P1
+139, S2Ti1
+191, S2Ti1
+194, Sb1
+129, Se1Ti1
+194, Se1Ti1
+2, Se2Ta1
+166, Se2Ta1
+164, Se2Ta1
+194, Se2Ta1 (Already identified on TQC website)
+160, Se2Ta1
+141, Sr1
+140, Sr1
+229, Sr1
+194, Sr1
+225, Ta1
+223, Ta1
+191, Ta1
+229, Ta1
+194, Ta1
+113, Ta1 (Probably)
+3, Ta1 (Probably)
+136, Ta1 (Probably)
+81, Ta30 (Prediction was 81, Ta1 but was not found; same space group was found in Ta30)
+187, Te1Zr1
+194, Te1Zr1
+
+Other Potential Topological Materials from except topogivity:
+129, Ag1Mg1Sb1
+225, Ga2Pt1
+123, Hg1Pd1
+194, In1Mg3
+194, Li1Tl1
+216, N1Tl1
+225, N1Tl1
+62, N3Ta1Th1 (Structure somewhat similar to identified TIs: N3Ta1Th1, Space Groups: 63, 221)
+189, Nb1Re1Si1
+229, Pb1
+194, Pb1
+166, Pb2Pd3S2
+189, Re1Si1Ta1
+
+Other potential Topological Materials not found on TQC Website:
+143, Al5Mo1
+160, As2Sn2Sr1
+194, Be1
+151, Cl3Ti1
+146, In1Mg3
+43, In1Sr1
+186, P3Sc7
+156, Sb2Te3
+62, Se1Ti1
+81, Ta1
+From except topogivity:
+152, Ag1Pb4Pd6
+80, As1Nb1
+146, In1Mg3
+216, Li21Si5
