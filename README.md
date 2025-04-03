@@ -20,6 +20,12 @@ The R-number values of the elements and element pairs for each dataset are given
 
 *************
 
+**LIST OF ALL POTENTIAL TOPOLOGICAL MATERIALS:**
+
+The list of all potential TMs predicted by our approach are given in the file `List of All Potential TMs`.
+
+*************
+
 CONTENTS IN THIS REPOSITORY:
 1) _raw_data_: This folder contains the raw data extracted from the above mentioned sources.
 2) _results_: This folder contains all the results from our algorithm. The text file `final_structure_screened_compiled_results.txt` has the compiled results after checking the band structures. R-number values from all datasets are also in this folder.
@@ -29,7 +35,8 @@ CONTENTS IN THIS REPOSITORY:
 6) _3 Final Model and Algo.ipynb_: Jupyter code file for training ML models and making predictions.
 7) _Example R-Number Formula Calculation.pdf_: File explaining the calculation of probability from our devised formula using an example.
 8) _LICENSE_
-9) _README.md_
+9) _List of All Potential TMs_: File for the list of all potential topological materials that are predicted by our approach.
+10) _README.md_
 
 Other files are the datasets made for running our algorithm.
 
